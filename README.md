@@ -1,26 +1,26 @@
-# 🧠 Hands-On Machine Learning 3rd Edition – Jupyter Notebooks by Ahmed Abdulghany
+# Hands-On Machine Learning 3rd Edition – Jupyter Notebooks by Ahmed Abdulghany
 
 This repository contains practical, well-documented Jupyter notebooks based on the book  
 **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)** by Aurélien Géron.
 
 Each chapter is carefully implemented with:
-- 🧪 Executable code examples
-- 📝 Concise notes and summaries
-- 📊 Visualizations and outputs
-- 🧠 My personal insights and extensions
+- Executable code examples
+- Concise notes and summaries
+- Visualizations and outputs
+- My personal insights and extensions
 
-> ✅ Purpose: To deepen my understanding of Machine Learning and to share practical, well-documented notebooks that can help others learn and apply the concepts more easily.
+> Purpose: To deepen my understanding of Machine Learning and to share practical, well-documented notebooks that can help others learn and apply the concepts more easily.
 
 ---
 
-## 📥 Also Available on Kaggle
+## Also Available on Kaggle
 
 You can view and run the notebooks directly on Kaggle via my profile:  
-🔗 **[Ahmed Abdulghany on Kaggle](https://www.kaggle.com/ahmedabdulghany)**
+**[Ahmed Abdulghany on Kaggle](https://www.kaggle.com/ahmedabdulghany)**
 
 ---
 
-## 📚 Chapters Covered So Far
+## Chapters Covered So Far
 
 | Chapter | Title                                      | Notebook File                              | Notes |
 |--------:|--------------------------------------------|--------------------------------------------|-------|
@@ -51,39 +51,39 @@ You can view and run the notebooks directly on Kaggle via my profile:
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-- 🧠 Reinforced learning through real implementation
-- ✍️ Each notebook contains **summarized key points** from the book
-- 📂 Organized for easy navigation and self-study
-- 🔄 Continuously updated
+- Reinforced learning through real implementation
+- Each notebook contains **summarized key points** from the book
+- Organized for easy navigation and self-study
+- Continuously updated
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This project is part of my personal learning journey, but I welcome feedback, suggestions, or questions via [issues](https://github.com/AhmedAbdulghany/Hands-On-ML3-Jupyter-Notebooks-by-AhmedAbdulghany/issues).
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Hi, I’m **Ahmed Abdulghany** — a software engineering student passionate about building real-world AI and ML systems.
 
-- 🧠 Focused on applied machine learning and systems design  
-- 🔗 [LinkedIn – Ahmed Abdulghany](https://www.linkedin.com/in/ahmedabdulghany/)  
-- 🌍 Based in Egypt | Open to collaboration
+- Focused on applied machine learning and systems design  
+- [LinkedIn – Ahmed Abdulghany](https://www.linkedin.com/in/ahmedabdulghany/)  
+- Based in Egypt | Open to collaboration
 
 ---
 
-## 📌 License
+## License
 
 This repository is shared for educational purposes only and is **not affiliated** with the book's official content.  
 All book content copyright belongs to © Aurélien Géron and O'Reilly.
 
 ---
 
-## 🔍 References
+## References
 
 - [Official Book GitHub Repo](https://github.com/ageron/handson-ml3)
 - [Book on O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
