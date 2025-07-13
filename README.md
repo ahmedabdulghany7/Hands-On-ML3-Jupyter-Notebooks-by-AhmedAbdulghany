@@ -32,6 +32,7 @@ You can view and run the notebooks directly on Kaggle via my profile:
 | 6       | Decision Trees                             | `chapter_06_decision_trees.ipynb`          | ✅     |
 | 7       | Ensemble Learning and Random Forests       | `chapter_07_ensemble_learning.ipynb`       | ✅     |
 | 8       | Dimensionality Reduction                   | `chapter_08_dimensionality_reduction.ipynb`| ✅     |
+| 9       | Unsupervised Learning Techniques           | `chapter_09_unsupervised_learning.ipynb`   | ✅     |
 | ...     | ...                                        | ...                                        | 🔄     |
 | N       | ... (remaining chapters in progress)       | `chapter_0X_*.ipynb`                       | 🔄     |
 
